@@ -4,7 +4,7 @@ Selamat datang di leaderboard peserta Google Cloud Arcade!
 Terima kasih atas semangat, kerja keras, dan kolaborasi luar biasa dari semua peserta.  
 Setiap badge, setiap game yang diselesaikan adalah bukti konsistensi dan ketekunan kalian.  
 Jangan menyerah, terus belajar, dan jadilah inspirasi bagi yang lain.  
-Siapapun bisa naik ke puncak—semangat terus dan raih prestasi terbaikmu! 🚀
+Perbanyak badges dan dapatkan poin sebanyak-banyaknya untuk meraih milestone 🚀 🚀
 
 | No | Nama Peserta | URL Profil | Milestone | # Skill Badge | # Game Arcade |
 |----|--------------|------------|-----------|--------------|--------------|
