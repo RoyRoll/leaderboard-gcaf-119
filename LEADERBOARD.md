@@ -1,3 +1,11 @@
+# 🏆 Leaderboard Google Cloud Arcade Challenge
+
+Selamat datang di leaderboard peserta Google Cloud Arcade!  
+Terima kasih atas semangat, kerja keras, dan kolaborasi luar biasa dari semua peserta.  
+Setiap badge, setiap game yang diselesaikan adalah bukti konsistensi dan ketekunan kalian.  
+Jangan menyerah, terus belajar, dan jadilah inspirasi bagi yang lain.  
+Siapapun bisa naik ke puncak—semangat terus dan raih prestasi terbaikmu! 🚀
+
 | No | Nama Peserta | URL Profil | Milestone | # Skill Badge | # Game Arcade |
 |----|--------------|------------|-----------|--------------|--------------|
 | 1 | 🟨 Andika Tri Prasetya | [Link](https://www.cloudskillsboost.google/public_profiles/fdbdc163-84af-4c10-bfd4-8572ccf292a8) | None | 0 | 5 |
