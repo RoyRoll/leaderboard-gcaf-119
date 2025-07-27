@@ -6,13 +6,13 @@ Setiap badge, setiap game yang diselesaikan adalah bukti konsistensi dan ketekun
 Jangan menyerah, terus belajar, dan jadilah inspirasi bagi yang lain.  
 Ayo kumpulkan badges sebanyak-banyaknya dan raih milestone terbaik! 🚀
 
-**Terakhir diupdate:** 27-Jul-2025 14:15
+**Terakhir diupdate:** 27-Jul-2025 14:36
 
 | No | Nama Peserta | URL Profil | Milestone | # Skill Badge | # Game Arcade | # Game Trivia | Jumlah Badges |
 |----|--------------|------------|-----------|--------------|--------------|--------------|---------------|
 | 1 | 🥇 Andika Tri Prasetya | [Link](https://www.cloudskillsboost.google/public_profiles/fdbdc163-84af-4c10-bfd4-8572ccf292a8) | None | 0 | 5 | 4 | 9 |
-| 2 | 🥈 Rival Fitrah Dermawan | [Link](https://www.cloudskillsboost.google/public_profiles/90b194f0-d61b-415b-a845-be836b660cbe) | None | 0 | 2 | 4 | 6 |
-| 3 | 🥉 Rio Ferddinansya | [Link](https://www.cloudskillsboost.google/public_profiles/e323ebcf-9dc2-41cf-8570-d852079fba18) | None | 0 | 2 | 4 | 6 |
+| 2 | 🥈 Rio Ferddinansya | [Link](https://www.cloudskillsboost.google/public_profiles/e323ebcf-9dc2-41cf-8570-d852079fba18) | None | 0 | 3 | 4 | 7 |
+| 3 | 🥉 Rival Fitrah Dermawan | [Link](https://www.cloudskillsboost.google/public_profiles/90b194f0-d61b-415b-a845-be836b660cbe) | None | 0 | 2 | 4 | 6 |
 | 4 | Marwa Azizah Mutya Dewi | [Link](https://www.cloudskillsboost.google/public_profiles/db00fab9-d37e-40a5-8018-ff4a557d8076) | None | 0 | 2 | 4 | 6 |
 | 5 | Ridho Putra Pratama | [Link](https://www.cloudskillsboost.google/public_profiles/39641f20-05b8-42d4-a414-c08445c6544f) | None | 0 | 0 | 0 | 0 |
 | 6 | Rohmat hidayat yusuf | [Link](https://www.cloudskillsboost.google/public_profiles/84dcba35-b4ed-4a83-92de-13921505e696) | None | 0 | 0 | 0 | 0 |
@@ -30,4 +30,4 @@ Ayo kumpulkan badges sebanyak-banyaknya dan raih milestone terbaik! 🚀
 | 18 | Muhammad Adib Baihaqi | [Link](https://www.cloudskillsboost.google/public_profiles/3b125f31-1b1a-456c-aba2-004b86dfdc0a) | None | 0 | 0 | 0 | 0 |
 | 19 | Fahri Radiansyah | [Link](https://www.cloudskillsboost.google/public_profiles/292cbfb6-40c5-45c0-9f76-bf57de37db4d) | None | 0 | 0 | 0 | 0 |
 | 20 | Zolla Perdana Putra Harahap | [Link](https://www.cloudskillsboost.google/public_profiles/c3a44267-b2e3-4362-a3bc-be010bea33ba) | None | 0 | 0 | 0 | 0 |
-| 21 | Maullana Hidayanto | [Link](https://www.cloudskillsboost.google/public_profiles/9e125465-f2c4-46e5-aad8-ce1705c64381) | None | 0 | 0 | 0 | 0 |
+| 21 | Maullana Hidayanto | [Link](https://www.cloudskillsboost.google/public_profiles/9e125465-f2c4-46e5-aad8-ce1705c64381) | None | 0 | 0 | 2 | 2 |
