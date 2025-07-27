@@ -1,12 +1,12 @@
-# 🏆 Leaderboard Google Cloud Arcade Challenge
+# 🏆 Leaderboard Google Cloud Arcade Fasilitator Program
 
-Selamat datang di leaderboard peserta Google Cloud Arcade!  
+Selamat datang di leaderboard peserta Google Cloud Arcade Fasilitator!  
 Terima kasih atas semangat, kerja keras, dan kolaborasi luar biasa dari semua peserta.  
 Setiap badge, setiap game yang diselesaikan adalah bukti konsistensi dan ketekunan kalian.  
 Jangan menyerah, terus belajar, dan jadilah inspirasi bagi yang lain.  
-Siapapun bisa naik ke puncak—semangat terus dan raih prestasi terbaikmu! 🚀
+Ayo kumpulkan badges sebanyak-banyaknya dan raih poin tertinggi 🚀
 
-**Terakhir diupdate:** 27-07-2025 12:49:07
+**Terakhir diupdate:** 27-Jul-2025 12:53
 
 | No | Nama Peserta | URL Profil | Milestone | # Skill Badge | # Game Arcade |
 |----|--------------|------------|-----------|--------------|--------------|
